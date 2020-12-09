@@ -4,6 +4,7 @@ body {
 }
 
 div.card {
+  background-image: url(images/clam.jpg);
   border: 3px solid #FFFFFF;
   box-shadow: 10px 10px #00000045;
   border-radius: 1%;
@@ -12,4 +13,10 @@ div.card {
   font-family: 'Barlow Semi Condensed', sans-serif;
   text-align: justify;
   margin: auto;
+}
+
+img {
+  border-radius: 2%;
+  padding-bottom: 3px;
+  filter: saturate(200%);
 }
