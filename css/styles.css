@@ -44,3 +44,20 @@ img {
   text-align: right;
   background-image: linear-gradient(to right, #360d72, #221f8080);
 }
+
+div.info {
+  border: 1px solid #FFFFFF;
+  background-color: #FFFFFF15;
+  padding: 5px;
+}
+
+.facts {
+  color: #0a315c;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
