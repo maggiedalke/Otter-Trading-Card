@@ -1,0 +1,15 @@
+body {
+  background-color: #273f63;
+  color: #FFFFFF;
+}
+
+div.card {
+  border: 3px solid #FFFFFF;
+  box-shadow: 10px 10px #00000045;
+  border-radius: 1%;
+  width: 310px;
+  padding: 5px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: justify;
+  margin: auto;
+}
