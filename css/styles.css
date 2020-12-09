@@ -4,7 +4,7 @@ body {
 }
 
 div.card {
-  background-image: url(images/clam.jpg);
+  background-image: url(../images/clam.jpg);
   border: 3px solid #FFFFFF;
   box-shadow: 10px 10px #00000045;
   border-radius: 1%;
