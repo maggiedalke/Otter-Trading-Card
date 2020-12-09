@@ -1,0 +1,23 @@
+{
+  "name": "animal_trading_card",
+  "version": "1.0.0",
+  "description": "Animal Trading Card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggiedalke/animal_trading_card.git"
+  },
+  "author": "Maggie Dalke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maggiedalke/animal_trading_card/issues"
+  },
+  "homepage": "https://github.com/maggiedalke/animal_trading_card#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-image": "^6.2.1"
+  }
+}
