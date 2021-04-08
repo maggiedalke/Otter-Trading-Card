@@ -1,4 +1,6 @@
 # Animal Trading Card
+**Hosted:** otter-trading-card.netlify.app/
+
 This is an styling repo I made to create a trading card for my favorite animal an **Otter**. <br> 
 It is the first project I made in CSS, and I had a great time making it and exploring my creative side. 
 
